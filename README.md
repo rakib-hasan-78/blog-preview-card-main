@@ -46,7 +46,7 @@ This project serves as a great practice for honing skills in HTML, CSS, and resp
 
 ### Screenshot
 
-![](./assets/images/Screenshot%20from%202025-01-07%2017-### Goals10-58.png)
+![](./assets/images/Screenshot%20from%202025-01-07%2017-10-58.png)
 
 
 ### Links
